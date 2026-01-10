@@ -9,10 +9,6 @@
 
   
 - 😄 Pronouns: he/him
-<!---
-ygweygyigyigyigerig/ygweygyigyigyigerig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">My tech stack</h2>
 
 
@@ -27,4 +23,3 @@ You can click the Preview link to take a look at your changes.
 [![](https://github-readme-stats.vercel.app/api?username=SimonDevStack&show_icons=true&theme=github_dark)](https://github.com/ygweygyigyigyigerig/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=SimonDevStack&theme=github-dark-blue&hide_border=false)<br/>
 
-<h3 align="center">README.md inspired (stolen) from great friend and co-dev FrogProg09's README.md</h2>
