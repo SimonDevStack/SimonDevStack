@@ -6,6 +6,7 @@
  
 - 📫 How to contact me :
   - my discord : szymonschabiak
+  - my email : simongithub526@gmail.com
 
   
 - 😄 Pronouns: he/him
