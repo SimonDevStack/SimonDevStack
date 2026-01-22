@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Simon</h2>
 
-- 👀 I’m interested in linux, hyprland ricing and programming
+- 👀 I'm linux, and programming geek
  
 - 🌱 I’m currently learning Rust
  
